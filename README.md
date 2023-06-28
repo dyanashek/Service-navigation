@@ -1,5 +1,5 @@
 # Collect applications bot
-## Изменить язык: [Русский](README.md)
+## Change language: [English](README.en.md)
 ***
 Переносит ответы пользователей в гугл таблицу. Предоставляет краткую справку о компании.
 ## [DEMO](README.demo.md)
